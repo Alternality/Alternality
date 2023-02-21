@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 Everyone calls me Alter or Alternal but you can also call me by my real name "Mark".
 
 - 🔭 I’m currently working on a 2D fishing game.
@@ -17,5 +15,5 @@ Everyone calls me Alter or Alternal but you can also call me by my real name "Ma
 - 📫 How to reach me: https://www.facebook.com/profile.php?id=100084045829765&mibextid=ZbWKwL
 
 - ⚡ Fun fact: I work best with the same type of people.
--->
+
 
